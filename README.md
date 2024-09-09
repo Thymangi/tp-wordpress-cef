@@ -1,7 +1,7 @@
-Mon Projet WordPress
+## Mon Projet WordPress
 Ce projet est une installation WordPress personnalisée pour gérer un site e-commerce. Il inclut plusieurs plugins et thèmes configurés pour une boutique en ligne.
 
-Installation
+## Installation
 Clonez ce repository :
 
 git clone https://github.com/votre-utilisateur/mon-projet-wordpress.git
@@ -15,8 +15,8 @@ Accéder à l'installation de WordPress via http://localhost/nom-du-dossier et s
 
 Tester et configurer votre site WordPress.
 
-Utilisation
+## Utilisation
 Configurez le fichier .env pour connecter votre base de données. Utilisez wp-admin pour accéder au tableau de bord WordPress.
 
-Contribuer
+## Contribuer
 Les contributions sont les bienvenues ! Ouvrez une issue ou envoyez une pull request.
